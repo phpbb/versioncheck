@@ -1,2 +1,2 @@
-3.0.7-PL1
-http://www.phpbb.com/community/viewtopic.php?f=14&t=2014195
+3.0.8-RC1
+http://area51.phpbb.com/phpBB/viewtopic.php?f=3&t=34683
