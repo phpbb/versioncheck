@@ -1,0 +1,1 @@
+../stk/stk_qa.txt
