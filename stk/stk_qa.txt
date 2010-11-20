@@ -1,2 +1,2 @@
 1.0.3-dev
-http://www.phpbb.com/community/viewtopic.php?f=14&p=12889109#p12889109
+http://www.phpbb.com/community/viewtopic.php?f=14&t=21110799
