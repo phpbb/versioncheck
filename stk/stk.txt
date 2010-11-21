@@ -1,2 +1,2 @@
-1.0.2.1
-http://www.phpbb.com/community/viewtopic.php?f=14&t=21110799
+1.0.2.1-pl1
+http://www.phpbb.com/community/viewtopic.php?f=14&t=2111157
