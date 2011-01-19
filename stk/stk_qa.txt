@@ -1,2 +1,2 @@
-1.0.3-dev
+1.0.3-rc1
 http://www.phpbb.com/community/viewtopic.php?f=14&t=2111079#p12900268
