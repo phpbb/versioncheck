@@ -1,2 +1,2 @@
-3.0.9-RC2
-http://area51.phpbb.com/phpBB/viewtopic.php?f=3&t=40344
+3.0.9-RC3
+http://area51.phpbb.com/phpBB/viewtopic.php?f=3&t=40686
