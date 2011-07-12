@@ -1,2 +1,2 @@
-1.0.4-rc1
-http://www.phpbb.com/community/viewtopic.php?f=95&t=2130301
+1.0.4
+http://www.phpbb.com/community/viewtopic.php?f=14&t=2134353
