@@ -1,2 +1,2 @@
-3.0.10
-http://www.phpbb.com/community/viewtopic.php?f=14&t=2147166
+3.0.11
+https://www.phpbb.com/community/viewtopic.php?f=14&t=2161321
