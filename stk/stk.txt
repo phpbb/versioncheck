@@ -1,2 +1,2 @@
-1.0.5
-http://www.phpbb.com/community/viewtopic.php?f=14&t=2147197
+1.0.6
+https://www.phpbb.com/community/viewtopic.php?f=14&t=2164410
