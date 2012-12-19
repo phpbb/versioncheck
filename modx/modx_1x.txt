@@ -1,2 +1,2 @@
-1.2.5
+1.2.6
 http://www.phpbb.com/mods/modx/
