@@ -1,2 +1,2 @@
-3.0.12-RC3
-http://area51.phpbb.com/phpBB/viewtopic.php?f=3&t=44519
+3.0.12
+https://www.phpbb.com/community/viewtopic.php?f=14&t=2200921
