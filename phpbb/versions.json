@@ -1,9 +1,18 @@
 {
-    "30x": {
-        "current": "3.0.12",
-        "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2200921"},
-    "30x_qa": {
-        "current": "3.0.12",
-        "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2200921"
+    "stable": {
+        "30x": {
+            "current": "3.0.12",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2200921"
+        }
+    },
+    "qa": {
+        "30x": {
+            "current": "3.0.12",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2200921"
+        }
+        "31x": {
+            "current": "3.1.0-A3",
+            "announcement": "https://blog.phpbb.com/2014/02/10/phpbb-3-1-alpha3-preview-release/"
+        }
     }
 }
