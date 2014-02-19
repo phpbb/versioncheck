@@ -5,7 +5,7 @@
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2200921"
         }
     },
-    "qa": {
+    "unstable": {
         "3.0": {
             "current": "3.0.12",
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2200921"
