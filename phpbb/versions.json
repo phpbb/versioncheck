@@ -15,8 +15,8 @@
             "security": false
         },
         "3.1": {
-            "current": "3.1.0-RC2",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2251866",
+            "current": "3.1.0-RC3",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2256746",
             "eol": null,
             "security": false
         }
