@@ -1,2 +1,4 @@
 3.0.12
 https://www.phpbb.com/community/viewtopic.php?f=14&t=2200921
+3.1.2
+https://www.phpbb.com/community/viewtopic.php?f=14&t=2278081
