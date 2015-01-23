@@ -1,4 +1,4 @@
-3.0.12
-https://www.phpbb.com/community/viewtopic.php?f=14&t=2200921
+3.0.13-RC1
+https://area51.phpbb.com/phpBB/viewtopic.php?f=3&t=46776
 3.1.2
 https://www.phpbb.com/community/viewtopic.php?f=14&t=2278081
