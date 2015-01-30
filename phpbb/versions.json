@@ -1,8 +1,8 @@
 {
     "stable": {
         "3.0": {
-            "current": "3.0.13",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2291456",
+            "current": "3.0.13-PL1",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2292536",
             "eol": null,
             "security": false
         },
@@ -15,8 +15,8 @@
     },
     "unstable": {
         "3.0": {
-            "current": "3.0.13",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2291456",
+            "current": "3.0.13-PL1",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2292536",
             "eol": null,
             "security": false
         },

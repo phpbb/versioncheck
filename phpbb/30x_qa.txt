@@ -1,4 +1,4 @@
-3.0.13
-https://www.phpbb.com/community/viewtopic.php?f=14&t=2291456
+3.0.13-PL1
+https://www.phpbb.com/community/viewtopic.php?f=14&t=2292536
 3.1.2
 https://www.phpbb.com/community/viewtopic.php?f=14&t=2278081
