@@ -1,18 +1,18 @@
 {
     "stable": {
         "1.0": {
-            "current": "1.0.0-b2",
-            "download": "https://github.com/phpbb-extensions/autogroups/releases/tag/1.0.0-b2",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2278771",
+            "current": "1.0.0",
+            "download": "https://www.phpbb.com/customise/db/download/113866",
+            "announcement": "https://www.phpbb.com/customise/db/extension/auto_groups/",
             "eol": null,
             "security": false
         }
     },
     "unstable": {
         "1.0": {
-            "current": "1.0.0-b2",
-            "download": "https://github.com/phpbb-extensions/autogroups/releases/tag/1.0.0-b2",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2278771",
+            "current": "1.0.0",
+            "download": "https://www.phpbb.com/customise/db/download/113866",
+            "announcement": "https://www.phpbb.com/customise/db/extension/auto_groups/",
             "eol": null,
             "security": false
         }
