@@ -25,6 +25,12 @@
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2335426",
             "eol": null,
             "security": false
+        },
+        "3.2": {
+            "current": "3.2.0-a1",
+            "announcement": "http://area51.phpbb.com/phpBB/viewtopic.php?f=81&p=285096",
+            "eol": null,
+            "security": false
         }
     }
 }
