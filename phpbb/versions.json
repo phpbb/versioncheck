@@ -21,14 +21,14 @@
             "security": false
         },
         "3.1": {
-            "current": "3.1.8",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2360031",
+            "current": "3.1.9-RC1",
+            "announcement": "https://area51.phpbb.com/phpBB/viewtopic.php?f=81&t=49206",
             "eol": null,
             "security": false
         },
         "3.2": {
-            "current": "3.2.0-b1",
-            "announcement": "http://area51.phpbb.com/phpBB/viewtopic.php?f=81&p=287146",
+            "current": "3.2.0-b2",
+            "announcement": "http://area51.phpbb.com/phpBB/viewtopic.php?f=81&t=48971",
             "eol": null,
             "security": false
         }

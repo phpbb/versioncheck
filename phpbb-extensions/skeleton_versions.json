@@ -1,0 +1,11 @@
+{
+    "unstable": {
+        "1.0": {
+            "current": "1.0.0-a1",
+            "download": "https://github.com/phpbb-extensions/phpbb-ext-skeleton/releases/download/1.0.0-a1/phpbb_skeleton_1.0.0-a1.zip",
+            "announcement": "https://github.com/phpbb-extensions/phpbb-ext-skeleton/releases",
+            "eol": null,
+            "security": false
+        }
+    }
+}
