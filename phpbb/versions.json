@@ -27,7 +27,7 @@
             "security": false
         },
         "3.2": {
-            "current": "3.2.0-b2",
+            "current": "3.2.0-RC1",
             "announcement": "http://area51.phpbb.com/phpBB/viewtopic.php?f=81&t=48971",
             "eol": null,
             "security": false
