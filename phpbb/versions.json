@@ -27,8 +27,8 @@
             "security": false
         },
         "3.2": {
-            "current": "3.2.0-RC1",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2377556",
+            "current": "3.2.0-RC2",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2396451",
             "eol": null,
             "security": false
         }
