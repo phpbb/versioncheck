@@ -11,6 +11,12 @@
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2389426",
             "eol": null,
             "security": false
+        },
+        "3.2": {
+            "current": "3.2.0",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2399606",
+            "eol": null,
+            "security": false
         }
     },
     "unstable": {
@@ -27,8 +33,8 @@
             "security": false
         },
         "3.2": {
-            "current": "3.2.0-RC2",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2396451",
+            "current": "3.2.0",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2399606",
             "eol": null,
             "security": false
         }
