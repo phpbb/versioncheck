@@ -33,8 +33,8 @@
             "security": false
         },
         "3.2": {
-            "current": "3.2.3-RC1",
-            "announcement": "https://area51.phpbb.com/phpBB/viewtopic.php?f=81&t=55421",
+            "current": "3.2.3-RC2",
+            "announcement": "https://area51.phpbb.com/phpBB/viewtopic.php?f=81&t=58606",
             "eol": null,
             "security": false
         }
