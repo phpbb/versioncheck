@@ -13,14 +13,14 @@
             "security": false
         },
         "3.2": {
-            "current": "3.2.10",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2562631",
+            "current": "3.2.11",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2573411",
             "eol": null,
             "security": false
         },
         "3.3": {
-            "current": "3.3.1",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2562636",
+            "current": "3.3.2",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2573416",
             "eol": null,
             "security": false
         }
@@ -39,14 +39,14 @@
             "security": false
         },
         "3.2": {
-            "current": "3.2.10",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2562631",
+            "current": "3.2.11",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2573411",
             "eol": null,
             "security": false
         },
         "3.3": {
-            "current": "3.3.2-RC1",
-            "announcement": "https://area51.phpbb.com/phpBB/viewtopic.php?f=81&t=76331",
+            "current": "3.3.2",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=14&t=2573416",
             "eol": null,
             "security": false
         }
