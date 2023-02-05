@@ -19,8 +19,8 @@
             "security": false
         },
         "3.3": {
-            "current": "3.3.9",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?t=2631536",
+            "current": "3.3.10",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?t=2635986",
             "eol": null,
             "security": false
         }
@@ -45,8 +45,8 @@
             "security": false
         },
         "3.3": {
-            "current": "3.3.10-RC1",
-            "announcement": "https://area51.phpbb.com/phpBB/viewtopic.php?f=81&t=86101",
+            "current": "3.3.10",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?t=2635986",
             "eol": null,
             "security": false
         }
