@@ -1,4 +1,4 @@
 3.0.14
 https://www.phpbb.com/community/viewtopic.php?f=14&t=2313941
 3.3.13-RC1
-https://blog.phpbb.com/2024/08/05/phpbb-3-3-13-rc1-available-for-testing/
+https://www.phpbb.com/community/viewtopic.php?t=2656048
