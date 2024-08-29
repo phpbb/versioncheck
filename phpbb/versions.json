@@ -19,8 +19,8 @@
             "security": false
         },
         "3.3": {
-            "current": "3.3.12",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?t=2653732",
+            "current": "3.3.13",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?t=2656048",
             "eol": null,
             "security": false
         }
@@ -45,8 +45,8 @@
             "security": false
         },
         "3.3": {
-            "current": "3.3.13-RC1",
-            "announcement": "https://blog.phpbb.com/2024/08/05/phpbb-3-3-13-rc1-available-for-testing/",
+            "current": "3.3.13",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?t=2656048",
             "eol": null,
             "security": false
         }
