@@ -49,6 +49,12 @@
             "announcement": "https://www.phpbb.com/community/viewtopic.php?t=2661607",
             "eol": null,
             "security": false
+        },
+        "4.0": {
+            "current": "4.0.0-a1",
+            "announcement": "https://blog.phpbb.com/2025/09/27/phpbb-4-0-0-a1-the-first-alpha-release-is-here/",
+            "eol": null,
+            "security": false
         }
     }
 }
