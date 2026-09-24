@@ -1,4 +1,4 @@
 3.0.14
 https://www.phpbb.com/community/viewtopic.php?f=14&t=2313941
-3.3.18
-https://www.phpbb.com/community/viewtopic.php?t=2675239
+3.3.19
+https://www.phpbb.com/community/viewtopic.php?t=2675305
