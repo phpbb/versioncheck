@@ -23,7 +23,7 @@
             "announcement": "https://www.phpbb.com/community/viewtopic.php?t=2675305",
             "eol": null,
             "security": "3.3.19",
-            "urgent": "3.3.19"
+            "critical": "3.3.19"
         }
     },
     "unstable": {
@@ -50,7 +50,7 @@
             "announcement": "https://www.phpbb.com/community/viewtopic.php?t=2675305",
             "eol": null,
             "security": "3.3.19",
-            "urgent": "3.3.19"
+            "critical": "3.3.19"
         },
         "4.0": {
             "current": "4.0.0-a2",

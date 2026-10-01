@@ -13,7 +13,7 @@ BRANCH_RE = re.compile(r'^\d+\.\d+$')
 URL_RE = re.compile(r'^https?://\S+$')
 
 REQUIRED_KEYS = {'current', 'announcement', 'eol', 'security'}
-OPTIONAL_KEYS = {'urgent'}
+OPTIONAL_KEYS = {'critical'}
 
 errors = []
 
